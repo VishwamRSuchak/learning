@@ -1,0 +1,7 @@
+Day 1:
+1. Creating New Repository & Making html file in my repository.
+2. cloning it in my local system.
+3. Performing Pull, Push, Commit in that html file.
+4. Fork on Varsha Madam's Public Repository.
+
+My Repository URL: https://github.com/VishwamRSuchak/Day-1.git
