@@ -1,0 +1,10 @@
+Day 2:
+1. Creating New Repository & Made 2 html files in my repository.
+2. cloning it in my local system.
+3. Performing Changes in both files locally then staged 1 file & Commited that html file, then pushed that html file.
+4. Performed Changes in 1 file remotely then performed changes in that same file locally.
+5. Then stashed the local file.
+6. Then pulling the remote file and both files conflicted (remote & local).
+7. Then applied stash & accepted incoming changes in the local file and solved conflict & then pushed the file.
+
+My Repository URL: https://github.com/VishwamRSuchak/Stage-Stash-Learning-Day-2
